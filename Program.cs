@@ -1,5 +1,5 @@
 ﻿using System;
-class ptintOneToHundered
+class printOneToHundered
 {
     public static void Main(String[] args)
     {
